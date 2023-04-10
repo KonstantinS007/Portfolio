@@ -1,6 +1,6 @@
 # Portfolio
 
-<body> 
+
 		<h1> Резюме "Тестировщик-автоматизатор на Python (QAP)" </h1>
 		
 			<p> <i> <strong> Смотрин Константин</strong> </i> </p>
@@ -15,4 +15,3 @@
 		<br>
 		<h3> <u> Обучение </u> </h3>
 			<p> <i> <strong> В настоящее время прохожу обучение в школе <a href="https://skillfactory.ru/"> SkillFactory</a> по специальности "Тестировщик-автоматизатор на Python". </i> </strong> </p>
-</body>
