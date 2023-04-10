@@ -1,16 +1,6 @@
 # Portfolio
-<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title> Резюме </title>
-		<style type="text/css">
-		body {
-			background-image: url(https://abrakadabra.fun/uploads/posts/2022-03/1646997440_1-abrakadabra-fun-p-oranzhevii-fon-geometriya-1.jpg);
-			background-size: cover;
-			background-repeat: 100%;
-		}	
-		</style>	
-	</head>
-	<body> 
+
+<body> 
 		<h1> Резюме "Тестировщик-автоматизатор на Python (QAP)" </h1>
 		
 			<p> <i> <strong> Смотрин Константин</strong> </i> </p>
@@ -25,4 +15,4 @@
 		<br>
 		<h3> <u> Обучение </u> </h3>
 			<p> <i> <strong> В настоящее время прохожу обучение в школе <a href="https://skillfactory.ru/"> SkillFactory</a> по специальности "Тестировщик-автоматизатор на Python". </i> </strong> </p>
-	</body>
+</body>
